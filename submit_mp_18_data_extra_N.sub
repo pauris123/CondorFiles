@@ -1,0 +1,10 @@
+executable  = my_arguments.sh
+universe    = vanilla
+arguments   = /afs/cern.ch/user/n/nstrautn/x509up_u139058 moneyplot_18_data_extra_N.py $(Process)
+output      = output/mp_18_data_extra_N_output_$(Process).out
+error       = error/mp_18_data_extra_N_$(Process).err
+log         = log/mp_18_data_extra_N_$(Process).log
++JobFlavour = "testmatch"
+request_disk = 20MB
+request_memory = 20MB
+queue  3

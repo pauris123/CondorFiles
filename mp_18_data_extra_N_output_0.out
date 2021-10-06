@@ -1,0 +1,32 @@
+subject   : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks/CN=934042158
+issuer    : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks
+identity  : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks
+type      : RFC3820 compliant impersonation proxy
+strength  : 2048
+path      : /afs/cern.ch/user/n/nstrautn/x509up_u139058
+timeleft  : 23:45:07
+key usage : Digital Signature, Key Encipherment
+=== VO cms extension information ===
+VO        : cms
+subject   : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks
+issuer    : /DC=ch/DC=cern/OU=computers/CN=voms2.cern.ch
+attribute : /cms/Role=NULL/Capability=NULL
+timeleft  : 23:45:07
+uri       : voms2.cern.ch:15002
+
+subject   : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks/CN=934042158
+issuer    : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks
+identity  : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks
+type      : RFC3820 compliant impersonation proxy
+strength  : 2048
+path      : /afs/cern.ch/user/n/nstrautn/x509up_u139058
+timeleft  : 23:45:06
+key usage : Digital Signature, Key Encipherment
+=== VO cms extension information ===
+VO        : cms
+subject   : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nstrautn/CN=850980/CN=Normunds Ralfs Strautnieks
+issuer    : /DC=ch/DC=cern/OU=computers/CN=voms2.cern.ch
+attribute : /cms/Role=NULL/Capability=NULL
+timeleft  : 23:45:06
+uri       : voms2.cern.ch:15002
+
